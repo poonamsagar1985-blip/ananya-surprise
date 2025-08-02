@@ -86,7 +86,7 @@
 <body>
   <h1>Ananya ji ke liye ek chhota sa surprise 💌</h1>
 
-  <img src="ananya1.jpg" alt="Ananya Photo 1">
+  <img src="Phone/Documents/IMG_20250802_234653.jpg" alt="Ananya Photo 1">
   <p>Chaand toh sabne dekha hai...<br>Par aapke aage toh chaand bhi feeka pad jata hai</p>
 
   <img src="ananya2.jpg" alt="Ananya Photo 2">
